@@ -24,7 +24,7 @@
 
 ## Pyrogram
 
-> Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+> Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots with Stories functionals
 
 ``` python
 from pyrogram import Client, filters
@@ -65,7 +65,7 @@ If you'd like to support Pyrogram, you can consider:
 ### Installing
 
 ``` bash
-pip3 install pyrogram
+pip3 install -U https://github.com/PureAholy/PyroFork-Stories/archive/refs/heads/master.zip
 ```
 
 ### Resources
